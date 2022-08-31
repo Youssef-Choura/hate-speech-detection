@@ -10,7 +10,7 @@
 4. Change to app directory: `$ cd app`
 5. Start django application: `$ python manage.py runserver`
 
-Note: Use **Pycharm** for better coding experiance
+Note: Use **Pycharm** for better coding experience
 
 ### How it looks like 😉
 
